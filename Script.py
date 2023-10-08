@@ -6,7 +6,7 @@ from datetime import timedelta, datetime
 import pytz
 
 # Specify your folder paths and filenames
-folder_path = r'C:\Users\Shahab Kabiri\Dropbox\ThesisData\LSTMLogFiles'
+folder_path =
 output_file = 'history_data.xlsx'
 output_path = os.path.join(folder_path, output_file)
 symbol = "NQ100_m"
